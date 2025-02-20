@@ -1,5 +1,24 @@
-# RockPaperScissor-Game
-A console-based Rock-Paper-Scissors game in C++. Play against the computer, track wins, losses, and draws, and replay as desired. Simple, interactive, and easy to use.
+# Rock-Paper-Scissors Game
+
+### A simple console-based Rock-Paper-Scissors game written in C++. This game allows a user to play against the computer for a selected number of rounds, and displays the winner for each round and the final game results.
+
+## Features
+
+* User vs. Computer gameplay.
+
+* Randomized computer choices.
+
+* Multiple rounds (1-10) selection.
+
+* Tracks the number of wins, losses, and draws.
+
+* Displays round-by-round results.
+
+* Displays overall game results.
+
+* Option to replay the game.
+
+
 
 ## 1 - The user has to choose how many rounds he/she wants to play 
 
